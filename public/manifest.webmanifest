@@ -1,0 +1,13 @@
+{
+  "name": "Вечер за столом: 8 игр онлайн",
+  "short_name": "8 игр",
+  "description": "Онлайн-сборник настольных и словесных игр для компании друзей",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#14100b",
+  "theme_color": "#14100b",
+  "lang": "ru",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
